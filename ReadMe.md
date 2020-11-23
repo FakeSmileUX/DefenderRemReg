@@ -10,5 +10,4 @@ _____________________
 
 [Telegram](http://t.me/FakeSmileUX)
 
-[BasiCracker](http://github.com/FakeSmileUX/BasiCracker)
 _____________________	
